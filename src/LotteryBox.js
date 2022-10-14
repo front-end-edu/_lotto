@@ -96,4 +96,3 @@ class LotteryItem extends React.Component {
 }
 
 export default LotteryBox;
-
